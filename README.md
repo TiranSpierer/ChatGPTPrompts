@@ -8,7 +8,7 @@
 
 <p>Please also provide any relevant code snippets or drawing that can help me better understand the problem.</p>
 
-<p>Constraints:</p>
+Constraints:
 <p>Programming Language: C#</p>
 <p>UI Framework: WPF</p>
 <p>Software Framework: .NET 6</p>
