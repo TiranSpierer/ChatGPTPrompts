@@ -9,11 +9,11 @@
 <p>Please also provide any relevant code snippets or drawing that can help me better understand the problem.</p>
 
 Constraints:
-<p>Programming Language: C#</p>
-<p>UI Framework: WPF</p>
-<p>Software Framework: .NET 6</p>
-<p>Architectural Pattern: MVVM</p>
-<p>Unit Tests: NUnit</p>
-<p>Other Info: Use of prism libraries for dependency injection with unity container, commands and eventaggregator</p>
+Programming Language: C#
+UI Framework: WPF
+Software Framework: .NET 6
+Architectural Pattern: MVVM
+Unit Tests: NUnit
+Other Info: Use of prism libraries for dependency injection with unity container, commands and eventaggregator
 
 <p>Thank you.</p>
