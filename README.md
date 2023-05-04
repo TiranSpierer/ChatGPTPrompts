@@ -8,12 +8,12 @@
 
 <p>Please also provide any relevant code snippets or drawing that can help me better understand the problem.</p>
 
-Constraints:<br/>
-Programming Language: C#<br/>
-UI Framework: WPF<br/>
-Software Framework: .NET 6<br/>
-Architectural Pattern: MVVM<br/>
-Unit Tests: NUnit<br/>
-Other Info: Use of prism libraries for dependency injection with unity container, commands and eventaggregator
+__Constraints:__<br/>
+__Language:__ C#<br/>
+__UI Framework:__ WPF<br/>
+__Software Framework:__ .NET 6<br/>
+__Architectural Pattern:__ MVVM<br/>
+__Unit Tests:__ NUnit<br/>
+__Other Info:__ Use of prism libraries for dependency injection with unity container, commands and eventaggregator
 
 <p>Thank you.</p>
