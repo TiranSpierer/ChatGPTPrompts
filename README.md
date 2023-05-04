@@ -9,11 +9,11 @@
 <p>Please also provide any relevant code snippets or drawing that can help me better understand the problem.</p>
 
 __Constraints:__<br/>
-__Language:__&nbsp;&nbsp;C#<br/>
-__UI Framework:__&nbsp;&nbsp;WPF<br/>
-__Software Framework:__&nbsp;&nbsp;.NET 6<br/>
-__Architectural Pattern:__&nbsp;&nbsp;MVVM<br/>
-__Unit Tests:__&nbsp;&nbsp;NUnit<br/>
-__Other Info:__&nbsp;&nbsp;Use of prism libraries for Dependency Injection with Unity, DelegateCommand and EventAggregator
+__Language:__&nbsp;&nbsp;&nbsp;&nbsp;C#<br/>
+__UI Framework:__&nbsp;&nbsp;&nbsp;&nbsp;WPF<br/>
+__Software Framework:__&nbsp;&nbsp;&nbsp;&nbsp;.NET 6<br/>
+__Architectural Pattern:__&nbsp;&nbsp;&nbsp;&nbsp;MVVM<br/>
+__Unit Tests:__&nbsp;&nbsp;&nbsp;&nbsp;NUnit<br/>
+__Other Info:__&nbsp;&nbsp;&nbsp;&nbsp;Use of prism libraries for Dependency Injection with Unity, DelegateCommand and EventAggregator
 
 <p>Thank you.</p>
