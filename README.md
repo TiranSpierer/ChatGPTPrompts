@@ -1,5 +1,5 @@
 # ChatGPTPrompts
-<h2 style="font-size: 24px;">Assistance Request: WPF C# Programming Task</h2>
+<h2 style="font-size: 24px;">Programming prompt for long and complicated questions</h2>
 <p>Hello ChatGPT,</p>
 
 <p>I would like your assistance with a WPF C# programming task. Please provide me with a clear and concise description of the problem, including any specific requirements or constraints that need to be taken into account.</p>
