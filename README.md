@@ -15,6 +15,6 @@ Please also provide any relevant code snippets or drawing that can help me bette
 - Software Framework: .NET 6
 - Architectural Pattern: MVVM
 - Unit Tests: NUnit
-- Other Info: Use of prism libraries for Dependency Injection with Unity, DelegateCommand and EventAggregator
+- Other Info: Use of prism libraries for Dependency Injection with Unity, DelegateCommand and EventAggregator<br/>
 
 Thank you.
