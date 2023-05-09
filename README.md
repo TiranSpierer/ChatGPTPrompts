@@ -16,7 +16,7 @@ Please also provide any relevant code snippets or drawing that can help me bette
 - UI Framework: WPF
 - Software Framework: .NET 6
 - Architectural Pattern: MVVM
-- Unit Tests: NUnit
+- Unit & Integration Tests: NUnit
 - Other Info: Use of prism libraries for Dependency Injection with Unity, DelegateCommand and EventAggregator<br/>
 
 Thank you.
